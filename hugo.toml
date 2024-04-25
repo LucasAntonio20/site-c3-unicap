@@ -5,9 +5,9 @@ theme = 'hugo-digital-garden-theme'
 themesdir = "./themes"
 
 [params]
-  name = "Nigalya Ponya"
-  description = "Red panda living in the eastern Himalayas."
-  initials = "NP"
+  name = "Ciência da Computação UNICAP"
+  description = " é a nossa sigla de Ciência da Computaçao da católica."
+  initials = "UNICAP - C3"
   googleAnalytics = ""
 
   [[params.social]]

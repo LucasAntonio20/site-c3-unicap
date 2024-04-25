@@ -1,13 +1,15 @@
 {{ define "main" }}
 
-<div class="mt-5 pt-5 pb-1">
-    <div class="container" >
-       	<h1 class="name display-1"><b>{{ .Site.Params.Name }}</b></h1>
-    </div>
-</div>
-<div class="mb-5 py-4">
-    <div class="container">
-        <h2 class="bio lh-base fs-1 serif">{{ .Site.Params.Description }}</h2>
+<div class="extra">
+    <div class="container" style="display: flex; align-items: center;">
+        <div style="flex: 1;">
+            <h1 class="name display-1"><b>{{ .Site.Params.Name }}</b></h1>
+			<br>
+			<h2 class="bio lh-base fs-1 serif"><b>C3</b>{{ .Site.Params.Description }}</h2>
+        </div>
+        <div style="flex: 1;">
+            <img class="img-home img-hide" src="https://teste-unicap-site-33664455.netlify.app/media/welcome_hu1c117d2fff38002798592a64082964d4_89443_1200x0_resize_q75_lanczos.jpg" alt="">
+        </div>
     </div>
 </div>
 
