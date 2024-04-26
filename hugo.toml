@@ -4,6 +4,8 @@ title = 'UNICAP - C3'
 theme = 'hugo-digital-garden-theme'
 themesdir = "./themes"
 
+Copyright = "C3 @ "
+
 [params]
   name = "Ciência da Computação UNICAP"
   description = " é a nossa sigla de Ciência da Computaçao da católica."
@@ -11,24 +13,9 @@ themesdir = "./themes"
   googleAnalytics = ""
 
   [[params.social]]
-    name = "Twitter"
-    link = "#"
-    icon = "fab fa-twitter"
-
-  [[params.social]]
-    name = "Github"
-    link = "#"
-    icon = "fab fa-github"
-
-  [[params.social]]
-    name = "Medium" 
-    link = "#"
-    icon = "fab fa-medium-m"
-
-  [[params.social]]
-    name = "LinkedIn"
-    link = "#"
-    icon = "fab fa-linkedin-in"
+    name = "Instagram"
+    link = "https://www.instagram.com/c3.unicap/"
+    icon = "fab fa-instagram"
 
 
 [menu]

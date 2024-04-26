@@ -9,6 +9,16 @@
     padding-bottom: 2.25rem;
 }
 
+/* Header */
+
+.navbar {
+    height: 5rem;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: var(--blue);
+}
+
 .img-home {
     height: auto;
     max-width: 100%;
