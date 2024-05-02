@@ -1,0 +1,19 @@
+{{ .Scratch.Set "teachers_tags_list" ""}}
+{{ range .Params.teachers_tags }}
+{{ $.Scratch.Add "teachers_tags_list" ( . | printf " js-iso-%s") }}
+{{ end }}
+<div class='col {{ $.Scratch.Get "teachers_tags_list" }}'>
+    <div class="card-teacher">
+        {{ $img := (.Resources.ByType "image").GetMatch "*avatar*" }}
+        {{ if $img }}
+        {{ $img = $img.Fit "500x500" }}
+        {{ with $img }}
+        <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="card-img-top1 p-4">
+        {{ end }}
+        {{ end }}
+        <h4 class="card-teacher-title">{{ .Title }}</h4>
+        <p class="card-text pb-3">{{ .Params.role }}</p>
+        <a href="{{ .Permalink }}" class="stretched-link"></a>
+    </div>
+</div>
+{{ .Scratch.Delete "teachers_tags_list" }}

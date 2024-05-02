@@ -88,5 +88,49 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/ana-elisa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/andrea/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/assis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/augusto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/cezar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/diego/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/emmanuel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/madeiro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/gabriel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/gibson/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/jheymesson/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/liliane/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/marciobueno/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/marcos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/pedro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/rafaelroque/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/robson/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/rodrigo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/sergio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project_tags/tag1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project_tags/tag2/</loc>
   </url>
 </urlset>
