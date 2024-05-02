@@ -6,7 +6,7 @@
     <div class="card-teacher">
         {{ $img := (.Resources.ByType "image").GetMatch "*avatar*" }}
         {{ if $img }}
-        {{ $img = $img.Fit "500x500" }}
+        {{ $img = $img.Fit "500x500 center"}}
         {{ with $img }}
         <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="card-img-top1 p-4">
         {{ end }}
