@@ -8,7 +8,7 @@
         {{ if $img }}
         {{ $img = $img.Fit "500x500 center"}}
         {{ with $img }}
-        <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="card-img-top1 p-4">
+        <img src="{{ .Permalink }}" alt="{{ $.Title }}" class="card-teacher-img">
         {{ end }}
         {{ end }}
         <h4 class="card-teacher-title">{{ .Title }}</h4>
