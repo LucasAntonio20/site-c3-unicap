@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<div class="container">
+    <div class="py-5 rounded-3">
+        <div class="container-fluid py-2">
+            <h1 class="display-2 mb-4">{{ .Title }}</h1>
+        </div>
+    </div>
+</div>
+
+<!-- Event Post Cards -->
+<div class="container">
+    <div class="col">
+        {{ range .Pages.ByPublishDate.Reverse }}
+        {{ partial "card_event.html" . }}
+        {{ end }}
+     </div>
+</div>
+
+{{ end }}

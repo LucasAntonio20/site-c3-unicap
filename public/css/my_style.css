@@ -72,3 +72,10 @@
     font-weight: 300;    
     height: 130px;
 }
+
+/*
+{{ $authors := .Site.GetPage "/authors" }}
+        {{ range $authors.Pages }}
+        {{ partial "home_card_teacher.html" . }}
+        {{ end }}
+*/

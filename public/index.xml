@@ -7,7 +7,7 @@
     <generator>Hugo 0.125.1</generator>
     <language>pt-BR</language>
     <copyright>C3 @ </copyright>
-    <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 13:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Documentation</title>
@@ -29,6 +29,34 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/project3/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Semana da Computação 2024.1</title>
+      <link>http://localhost:1313/events/semana/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/semana/</guid>
+      <description>semana da computação</description>
+    </item>
+    <item>
+      <title>Hacker Cidadão</title>
+      <link>http://localhost:1313/events/cidadao/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/cidadao/</guid>
+      <description>IEE</description>
+    </item>
+    <item>
+      <title>Competição</title>
+      <link>http://localhost:1313/events/competicao/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/competicao/</guid>
+      <description>IEE</description>
+    </item>
+    <item>
+      <title>IEE 2023.2</title>
+      <link>http://localhost:1313/events/iee/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/iee/</guid>
+      <description>IEE</description>
     </item>
     <item>
       <title>Red Panda</title>
