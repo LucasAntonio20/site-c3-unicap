@@ -33,6 +33,11 @@
 
 /* ---- Cards ----*/
 
+.card-project {
+    display: flex;
+    align-items: flex-start;
+}
+
 .card-teacher-img {
     height: 9rem;
     width: 9rem;
@@ -58,7 +63,7 @@
     color: var(--blue);
   }
 
-  .card-teacher-title, .card-text {
+  .card-teacher-title{
     min-height: 4em;
     display: flex;
     justify-content: center;
@@ -72,6 +77,14 @@
     font-weight: 300;    
     height: 130px;
 }
+
+/* Status */
+
+.finished {
+    font-weight: lighter;
+    color: red;
+    font-size: small;
+  }
 
 /*
 {{ $authors := .Site.GetPage "/authors" }}

@@ -24,15 +24,13 @@
             {{ end }}
         </div>
     </div>
-</div>
+</div> 
 
 <!-- Project Cards -->
-<div class="container">
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3" data-masonry='{"percentPosition": true }' id="blogposts">
-        {{ range .Pages.ByPublishDate.Reverse }}
+<div class="container" id="blogposts">
+        {{ range .Pages.ByTitle }}
         {{ partial "card_project.html" . }}
         {{ end }}
-     </div>
 </div>
 
 {{ end }}

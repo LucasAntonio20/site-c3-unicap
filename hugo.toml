@@ -27,6 +27,10 @@ Copyright = "C3 @ "
     name = "Eventos"
     url = "/events/"
     weight = 2
+  [[menu.main]]
+    name = "Projetos"
+    url = "/projects/"
+    weight = 3
 
 
 [taxonomies]

@@ -10,27 +10,6 @@
     <lastBuildDate>Wed, 20 Mar 2024 13:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme Documentation</title>
-      <link>http://localhost:1313/projects/project2/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project2/</guid>
-      <description>Details on how to create and update content on your site</description>
-    </item>
-    <item>
-      <title>Markdown Syntax</title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description>Example of markdown syntax you can use to edit your content</description>
-    </item>
-    <item>
-      <title>Another Project</title>
-      <link>http://localhost:1313/projects/project3/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project3/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Semana da Computação 2024.1</title>
       <link>http://localhost:1313/events/semana/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>

@@ -58,7 +58,7 @@ email: "email@universidade.edu"
 twitter: "https://twitter.com/username"
 facebook: "https://facebook.com/username"
 linkedin: "https://linkedin.com/in/username"
-project_tags: ["tag1", "tag2"]
+project_tags: [""]
 featured_image: "ana-eliza-lopes-moura-featured.jpg"
 ---
 
