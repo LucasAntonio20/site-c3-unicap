@@ -2,16 +2,16 @@
 title: Semana da Computação 2024.1
 
 event: Semana da Computação
-event_url: https://semana.org
 
 location: Unicap
+local: Unicap
 address:
   street: Rua do Príncipe, 526 - Boa Vista 
   city: recife
   region: PE
   postcode: '50050-900'
   country: Brail
-
+ 
 summary: semana da computação
 
 
@@ -20,8 +20,8 @@ summary: semana da computação
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-20T13:00:00Z'
-date_end: '2024-03-24T15:00:00Z'
+date: '2024-03-20'
+dateend: '2024-03-24'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

@@ -7,7 +7,7 @@
     <generator>Hugo 0.125.1</generator>
     <language>pt-BR</language>
     <copyright>C3 @ </copyright>
-    <lastBuildDate>Wed, 20 Mar 2024 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semana da Computação 2024.1</title>
@@ -38,6 +38,20 @@
       <description>IEE</description>
     </item>
     <item>
+      <title>Technovation for Girls 2023</title>
+      <link>http://localhost:1313/projects/2023-05-05-pro/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/2023-05-05-pro/</guid>
+      <description>O curso de Ciência da Computação promoveu uma tarde de celebração nesta sexta-feira (05/05/2023) para marcar o final de mais uma edição do projeto de extensão Technovation For Girls 2023. As famílias das participantes foram até o Pavilhão Maker para assistir às apresentações dos trabalhos desenvolvidos ao longo dos últimos meses. A iniciativa envolve professoras, alunas, crianças e adolescentes que utilizam os laboratórios da Unicap para criar aplicativos voltados para os objetivos de desenvolvimento sustentável estabelecidos pela Organização das Nações Unidas.</description>
+    </item>
+    <item>
+      <title>Desenvolvimento de uma Metodologia Baseada em Modelos Computacionais Inteligentes para Estimar Dados Ausentes em Séries Temporais Múltiplas</title>
+      <link>http://localhost:1313/projects/21-12-01-timeseries/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/21-12-01-timeseries/</guid>
+      <description>Este é um projeto de pesquisa que se iniciou em 2021 e ainda esta em andamento. Palavras - chave: Series temporais,dados faltantes, industria 4.0 ,IOT ,healthcare. As cidades inteligentes produzem um grande volume de dados em domínios como Healthcare, Internet das Coisas (IoT) e Indústria 4.0. Essa grande quantidade de dados produzida, contudo, contém dados ausentes cuja manifestação se deve à amostragem irregular e desalinhada por causa da forma natural de coleta durante eventos médicos, redução de custos, ou mesmo anomalias e defeitos.</description>
+    </item>
+    <item>
       <title>Red Panda</title>
       <link>http://localhost:1313/library/book1/</link>
       <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
@@ -45,11 +59,25 @@
       <description>Biology and Conservation of the First Panda</description>
     </item>
     <item>
+      <title>From Liverpool to Brazil:A Transatlantic Knowledge Exchange Consortium to Promote Women in Science</title>
+      <link>http://localhost:1313/projects/21-12-01-liver/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/21-12-01-liver/</guid>
+      <description>Este é um projeto de pesquisa que se iniciou em 2021 e ainda esta em andamento. Palavras - chave: diversidade na ciência,mulheres,liderança,apoio,suporte,incentivo. O objetivo deste projeto é desenvolver parcerias de capacitação existentes e novas que sejam sustentáveis e facilitem o desenvolvimento de políticas e práticas institucionais inclusivas de gênero nas instituições brasileiras. As atividades do projeto descritas irão capacitar mulheres acadêmicas por meio de treinamento, workshops, atividades autodirigidas e mentoria; estabelecer uma rede internacional de apoio significativa e construir ligações mais fortes entre mulheres cientistas e instituições brasileiras e britânicas.</description>
+    </item>
+    <item>
       <title>Fuji Takes a Walk</title>
       <link>http://localhost:1313/library/book2/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/library/book2/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Cidades Inteligentes:Estudo de Soluções Colaborativas para Avaliação de Aplicações, Processamento de Imagens e Mineração de Dados</title>
+      <link>http://localhost:1313/projects/20-12-01-cidade/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/20-12-01-cidade/</guid>
+      <description>Este é um projeto de pesquisa que se iniciou em 2021 e ainda esta em andamento. Palavras - chave: soluções, mineração de dados, processamento de imagem, cidades inteligentes, investigação. Este projeto pretende avançar no entendimento e realização de estudos que proponham soluções para cidades inteligentes; dar suporte à implantação de soluções que envolvam este contexto; e analisar de forma conjunta os resultados desses estudos com outras soluções existentes, promovendo a realização de meta-análises que investiguem problemas recorrentes estudados.</description>
     </item>
     <item>
       <title>On the nutrition benefits of bamboo shoots</title>

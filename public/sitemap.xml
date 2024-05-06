@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/events/</loc>
-    <lastmod>2024-03-20T13:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/semana/</loc>
-    <lastmod>2024-03-20T13:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-20T13:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/cidadao/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
@@ -19,6 +19,21 @@
   </url><url>
     <loc>http://localhost:1313/events/iee/</loc>
     <lastmod>2023-10-29T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project_tags/extens%C3%A3o/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project_tags/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/2023-05-05-pro/</loc>
+    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/21-12-01-timeseries/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project_tags/pibic/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
@@ -35,6 +50,9 @@
     <loc>http://localhost:1313/library_tags/red-panda/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/21-12-01-liver/</loc>
+    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/garden/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -46,6 +64,9 @@
   </url><url>
     <loc>http://localhost:1313/library/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/20-12-01-cidade/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/garden/seeding_example/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
@@ -92,8 +113,6 @@
     <loc>http://localhost:1313/authors/pedro/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
-  </url><url>
-    <loc>http://localhost:1313/project_tags/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/rafaelroque/</loc>
   </url><url>
