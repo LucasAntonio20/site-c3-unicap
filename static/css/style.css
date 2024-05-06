@@ -146,6 +146,7 @@ code {
   color: var(--dark);
   font-family: var(--title);
   height: 5rem;
+  box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
 }
 .navbar-nav .nav-item .nav-link {
     color: var(--grey);
