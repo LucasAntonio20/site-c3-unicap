@@ -1,0 +1,19 @@
+<div class="card-publication flex-column" style="display: flex; align-items: flex-start;">
+    <div class="" style="display: flex;">
+        <i class="far fa-file-alt m-2"></i>
+        <p class="publication-text m-0" style="font-size: 1.4rem;">
+            {{ $authors := .Params.authors }}
+            {{ range $index, $author := $authors }}
+                {{ $author }}{{ if eq (add $index 1) (len $authors) }}{{ else }}, {{ end }}
+            {{ end }}
+            ({{ .Date | dateFormat "2006" }}).
+            <a href="#" style="color: var(--blue);">{{ .Title }}</a>.
+            {{ .Params.Publication }}
+            
+        </p>
+    </div>
+    <div class="pagination-buttons ms-4 mb-3 mt-1" style="display: flex; gap: 0.5rem;">
+        <button class="btn btn-citacao">Citação</button>
+        <a href="https://doi.org/{{ .Params.Doi }}"><button class="btn btn-citacao">DOI</button></a>
+    </div>
+</div>

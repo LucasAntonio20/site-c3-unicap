@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<div class="container">
+    <div class="py-5 rounded-3">
+        <div class="container-fluid py-2">
+            <h1 class="display-2 mb-4">{{ .Title }}</h1>
+        </div>
+    </div>
+</div>
+
+<!-- Publications Cards -->
+<div class="container" id="blogposts">
+    {{ range .Pages.ByPublishDate }}
+    {{ partial "card_publication.html" . }}
+    {{ end }}
+</div>
+
+{{ end }}

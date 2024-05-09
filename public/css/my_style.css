@@ -38,6 +38,25 @@
     align-items: flex-start;
 }
 
+.card-publication {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagination-buttons {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.pagination-buttons div {
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
 .card-teacher-img {
     height: 9rem;
     width: 9rem;
@@ -78,17 +97,21 @@
     height: 130px;
 }
 
-/* Status */
+.publication-text {
+    font-size: larger;
+    font-weight: 400;
+}
 
-.finished {
-    font-weight: lighter;
-    color: red;
-    font-size: small;
-  }
+/* Buttons */
 
-/*
-{{ $authors := .Site.GetPage "/authors" }}
-        {{ range $authors.Pages }}
-        {{ partial "home_card_teacher.html" . }}
-        {{ end }}
-*/
+.btn-citacao {
+    background-color: var(--white);
+    color: var(--blue);
+    border: 1px solid var(--blue);
+    border-radius: 4px;
+}
+
+.btn-citacao:hover {
+    background-color: var(--blue);
+    color: var(--white);
+}
